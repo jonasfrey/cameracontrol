@@ -5,6 +5,7 @@ class O_camera{
         s_brand, 
         s_model, 
     ){
+        this.n_id = null;
         this.s_brand = s_brand;
         this.s_model = s_model;
         this.a_o_gphoto2_camera_setting = this.f_a_o_gphoto2_camera_setting();
