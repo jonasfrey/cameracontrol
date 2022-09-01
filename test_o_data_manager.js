@@ -1,19 +1,7 @@
 import { O_test } from "./O_test.module.js"
-import { O_data_manager} from "./O_data_manager.module.js"
 
+import { O_data_manager} from "https://deno.land/x/jsondb@v0.1/O_data_manager.module.js"
 
-// class Person {}
-// var a = new Person()
-// console.log(a.constructor)
-// var b = new a.constructor()
-// console.log(b)
-// var o = {}
-// o.constructor()
-// console.log(o.constructor.name); 
-// var a = []
-// a.constructor()
-// console.log(a.constructor.name); 
-// Deno.exit(0);
 
 
 
